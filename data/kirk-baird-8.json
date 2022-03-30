@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "2",
+  "title": "Fixed Amount of Gas Sent in Call May Be Insufficient",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/8"
+}
