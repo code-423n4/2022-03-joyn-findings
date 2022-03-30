@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "TomFrenchBlockchain",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "2",
+  "title": "Platform fee may be set at or greater than 100% to claim all royalties or DOS a collection.",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/19"
+}
