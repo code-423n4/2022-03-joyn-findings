@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "3",
+  "title": "Creator can steal other creator's split in Splitter contract",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/21"
+}
