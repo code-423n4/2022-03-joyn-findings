@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "`Splitter.incrementWindow()` can be used to DOS the `claimForAllWindows` function",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/24"
+}
