@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "3",
+  "title": "Unsafe Transfer Pattern Allows Free Minting of ERC721 Tokens",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/42"
+}
