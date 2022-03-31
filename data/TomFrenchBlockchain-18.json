@@ -1,9 +1,0 @@
-{
-  "contest": 104,
-  "handle": "TomFrenchBlockchain",
-  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
-  "risk": "3",
-  "title": "Lack of access control on `RoyaltyVaultFactory.setPlatformFeeRecipient` leads to loss of all platform fees",
-  "issueId": 18,
-  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/18"
-}
