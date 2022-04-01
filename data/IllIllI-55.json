@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Forcing `IERC20` when calling `transfer()`/`transferFrom()` reverts when used with some ERC20 tokens",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/55"
+}
