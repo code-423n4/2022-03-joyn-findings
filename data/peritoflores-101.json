@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "peritoflores",
+  "address": "0xca14410735e29650dc240245d96bb376c51477c1",
+  "risk": "3",
+  "title": "UNSAFE TRANSFERFROM HANDLE TRANSFER INCORRECTLY",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/101"
+}
