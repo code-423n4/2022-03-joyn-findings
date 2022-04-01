@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H7] `CoreCollection.sol#initialize()` can be called again after initialized, making it possible for the owner to change the critical settings of the contract",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/65"
+}
