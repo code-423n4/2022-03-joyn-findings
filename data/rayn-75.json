@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "SplitProxy and ProxyVault both have `fallback` and `receive` set to payable, opening possibilities of native assets getting stuck in contract",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/75"
+}
