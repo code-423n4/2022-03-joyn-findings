@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H6] `RoyaltyVault.sol#setPlatformFee()` unbounded `platformFee` allows a malicious/compromised `Owner` to rug the beneficiaries of the royaltyVault",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/64"
+}
