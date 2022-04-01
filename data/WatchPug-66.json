@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H9] Lack of access control allows anyone to steal all most all the funds from the vaults created by `RoyaltyVaultFactory`",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/66"
+}
