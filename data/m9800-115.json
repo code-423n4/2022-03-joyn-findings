@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "m9800",
+  "address": "0x367bF4A80DA0Ed955DbeFb228c60fDf20C2f85B2",
+  "risk": "2",
+  "title": "Possible problem when mintToken and the user wants to purchase a token",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/115"
+}
