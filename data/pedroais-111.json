@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Initializer can be called many times and change critical parameters in an existing collection",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/111"
+}
