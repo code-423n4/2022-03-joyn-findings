@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "`Splitter.incrementWindow` checks window incrementation value incorrectly, allowing any whitelisted user to steal earnings of other users",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/74"
+}
