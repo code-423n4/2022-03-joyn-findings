@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "Collection Owners Can Brick the `CoreCollection.sol` Contract by Preventing Token Transfers",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/123"
+}
