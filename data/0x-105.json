@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "0x",
+  "address": "0x24D318E6dF873Fc92C118ab93F697Db0a7C4F923",
+  "risk": "2",
+  "title": "Wrong constant definition",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/105"
+}
