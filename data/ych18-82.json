@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "2",
+  "title": "Unchecked return value when transferring tokens",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/82"
+}
