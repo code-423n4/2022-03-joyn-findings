@@ -1,0 +1,9 @@
+{
+  "contest": 104,
+  "handle": "minhquanym",
+  "address": "0x616e6EC41bE589C7Cd08ee9E2fE8dD0Eaddd8941",
+  "risk": "2",
+  "title": "Setting `RoyaltyVault.splitterShare` to value bigger than `10000` causes Denial of Service in `RoyaltyVault.sendToSplitter`",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2022-03-joyn-findings/issues/90"
+}
