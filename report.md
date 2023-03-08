@@ -1,3 +1,11 @@
+---
+sponsor: "Joyn"
+slug: "2022-03-joyn"
+date: "2022-07-25"
+title: "Joyn contest"
+findings: "https://github.com/code-423n4/2022-03-joyn-findings/issues"
+contest: 104
+---
 
 # Overview
 
